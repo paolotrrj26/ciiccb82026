@@ -82,12 +82,11 @@ Previously, I worked as a Web Developer and Team Leader, where I gained experien
 
 ## 🚧 Current Goals
 
-- ✅ Earn Java Certification
+- 🔄 Become a Java Backend Developer
+- 🔄 Earn Java Certification
 - 🔄 Build portfolio-worthy Java projects
-- 🔄 Earn Java certification
 - 🔄 Learn Spring Boot
 - 🔄 Build RESTful APIs
-- 🔄 Become a Java Backend Developer
 
 ---
 
