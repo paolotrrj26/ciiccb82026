@@ -1,0 +1,10 @@
+# Compiled Java classes
+*.class
+
+# VS Code
+.vscode/*.log
+
+# Java language server
+.settings/
+bin/
+out/
