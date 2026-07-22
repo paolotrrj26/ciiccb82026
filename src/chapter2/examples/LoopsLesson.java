@@ -44,13 +44,23 @@ public class LoopsLesson {
         //         System.out.println("Color: " + color);
 
         //Optional Labels
-        ROW: for(int p = 1; p <= 10; p++) {
-        COL:    for(int l = 1; l <= 10; l++) {
-                    System.out.print(l*p + "\t");
-                    //can break specific label
-                    if(l == 5) break COL;
-            }
-            System.out.println();
+        // ROW: for(int p = 1; p <= 10; p++) {
+        // COL:    for(int l = 1; l <= 10; l++) {
+        //             System.out.print(l*p + "\t");
+        //             //can break specific label
+        //             if(l == 5) break COL;
+        //     }
+        //     System.out.println();
+        // }
+
+        String [] students = {"JP", "Foldger", "Kobe", "Dwight"};
+        String logIn = "Kobe";
+        int a = 1;
+        for(String name : students) {
+            if(name.equalsIgnoreCase(logIn)){
+                System.out.println(name + " " + logIn);
+                break;
+            }else System.out.println("iterration: " + a++);
         }
     }
 }
