@@ -1,6 +1,6 @@
-/**local package
+//local package
 package chapter1.tasks;
-*/
+
 
 /** 
  * The HelloWorldApp class implements an application that
