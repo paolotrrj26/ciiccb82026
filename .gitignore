@@ -3,7 +3,6 @@
 *.iml
 
 # VS Code
-.idea/
 .vscode/
 
 # Build output
@@ -13,3 +12,4 @@ out/
 # OS files
 .DS_Store
 Thumbs.db
+/src/TestingCodes.java
