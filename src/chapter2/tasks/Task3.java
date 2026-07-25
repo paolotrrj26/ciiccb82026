@@ -3,7 +3,7 @@ package chapter2.tasks;
 public class Task3 {
     public static void main(String[] args) {
 
-        String a = new String("Wow");
+        String a = "Wow";
         String b = a;
         String c = "Wow!";
         String d = c;
