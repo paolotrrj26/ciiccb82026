@@ -10,7 +10,7 @@ public class ArrayLesson {
         Student[] batch2 = {new Student(),new Student(),new Student(),new Student(),null};
         for(int j = 0; j<numbers3.length;j++)
             System.out.println(numbers3[j]);
-        System.out.println("\n"+stringSearch+" search result: "+ Arrays.binarySearch(numbersString, stringSearch));
+        //System.out.println("\n"+stringSearch+" search result: "+ Arrays.binarySearch(numbersString, stringSearch));
         int[][] diffsize = {
                 {1,2},//[0][1,2]
                 {3},//[1][3]
