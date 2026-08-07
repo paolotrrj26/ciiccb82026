@@ -11,19 +11,16 @@ class Arithmetic {
 
     int sum() {
         System.out.println("Addition: " + (num1 + num2));
-        subtract();
         return (num1 + num2);
     }
 
     int subtract() {
         System.out.println("Subtraction: " + (num1 - num2));
-        multiply();
         return (num1 - num2);
     }
 
     int multiply() {
         System.out.println("Multiplication: " + (num1 * num2));
-        divide();
         return (num1 * num2);
     }
 
@@ -58,5 +55,8 @@ public class Task7 {
         }
         Arithmetic art = new Arithmetic(num[0], num[1]);
         art.sum();
+        art.subtract();
+        art.multiply();
+        art.divide();
     }
 }

@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Pao
+# Hi there! 👋 I'm Juan Paolo S. Tarroja
 
 ## 💻 Aspiring Java Backend Developer
 
